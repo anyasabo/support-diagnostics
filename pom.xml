@@ -228,7 +228,8 @@
                             <addDefaultImplementationEntries>
                                 true
                             </addDefaultImplementationEntries>
-                            <addClasspath>false</addClasspath>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>lib/</classpathPrefix>
                         </manifest>
                         <manifestEntries>
                             <Implementation-Version>${project.version}</Implementation-Version>
