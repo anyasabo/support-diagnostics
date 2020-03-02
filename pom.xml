@@ -224,6 +224,7 @@
                 <configuration>
                     <archive>
                         <manifest>
+                         <mainClass>com.elastic.support.diagnostics.DiagnosticApp</mainClass>
                             <addDefaultImplementationEntries>
                                 true
                             </addDefaultImplementationEntries>
